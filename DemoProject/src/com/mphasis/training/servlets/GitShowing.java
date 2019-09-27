@@ -1,0 +1,7 @@
+package com.mphasis.training.servlets;
+
+public class GitShowing {
+	public void method() {
+		System.out.println("Git demo");
+	}
+}
